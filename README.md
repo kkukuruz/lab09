@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# lab09
-=======
 # lab9
 
 
@@ -62,4 +59,3 @@ Oстановка и удаление виртуальной машины
 vagrant halt
 vagrant destroy
 ```
->>>>>>> 32e4150 (Added files)
